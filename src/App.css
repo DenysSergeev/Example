@@ -1,0 +1,80 @@
+.container {
+  background: #065BEA;
+}
+
+.default {
+  position: absolute;
+  width: 84px;
+  height: 28px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  /* identical to box height, or 127% */
+  color: #000000;
+}
+
+.inputactive {
+  height: 81px;
+width: 420px;
+left: -1383px;
+top: -167px;
+border-radius: 0px;
+
+}
+
+
+.email {
+  height: 13px;
+width: 77px;
+left: 0px;
+top: 0px;
+border-radius: nullpx;
+
+}
+
+.password {
+  position: absolute;
+  left: 0%;
+  right: 81.67%;
+  top: 0%;
+  bottom: 83.95%;
+/* text */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  display: flex;
+  align-items: center;
+  color: #333333;
+}
+
+.active {
+  position: absolute;
+width: 70px;
+height: 28px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+/* identical to box height, or 127% */
+
+
+color: #000000;
+}
+
+.rectangle19 {
+  height: 81px;
+width: 420px;
+left: -1383px;
+top: -167px;
+border-radius: 0px;
+
+
+}
